@@ -10,4 +10,4 @@ $ docker build -t terraria-arm32v7 .
 
 ## Running and generating a world
 
-Please [ryansheehan's](https://github.com/ryansheehan/terraria) documentation, it will be equivalent except use the image you just built (`terraria-arm32v7` or use my rebuilt one `benletchford/terraria-arm32v7`).
+Please [ryansheehan's](https://github.com/ryansheehan/terraria) documentation, it will be equivalent except use the image you just built (`terraria-arm32v7`).
